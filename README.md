@@ -1,8 +1,15 @@
-# React + Vite
+This is a clone of Apple's calculator available for browsers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check it out here ----> https://main.d2yzbbzb9tkf4.amplifyapp.com/
 
-Currently, two official plugins are available:
+I know the link looks dodgy but it was set up with AWS Amplify app and I don't want to pay for a domain.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you find any issues with the site please let me know so I can fix it. :)
+
+
+               __
+              / _)
+     _.----._/ /
+    /         /      <----- ITS A STEGOSAURUS RAHHHHH ----->
+ __/ (  | (  |
+/__.-'|_|--|_|
