@@ -45,7 +45,6 @@ input {
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
   cursor: auto;
-  direction: rtl;
 }
 
 ::placeholder {
